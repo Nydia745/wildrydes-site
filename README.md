@@ -1,2 +1,2 @@
 # wildrydes-site
-## tutorial for AWS website deployment
+## code from tutorial for AWS website host
